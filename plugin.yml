@@ -1,0 +1,7 @@
+---
+name: DumpIdItem
+version: 0.0.1
+main: NhanAZ\DumpIdItem\Main
+api: 5.0.0
+src-namespace-prefix: NhanAZ\DumpIdItem
+...
